@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="722c416a-1741-428b-b03b-38051e3278b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/Study_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/ManTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/ShoppingMall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/ShoppingMallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="722c416a-1741-428b-b03b-38051e3278b9" name="Changes" comment="교재 5장 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/day01/src/Study01/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/Study01/MyDateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "soeunl"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/soeunl/JAVA_STUDY.git",
+    "accountId": "649d3704-9fb2-492b-9136-fc189b4d8467"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -115,6 +119,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717931315173</updated>
     </task>
+    <task id="LOCAL-00001" summary="교재 5장 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1717935598488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717935598488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="교재 5장 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="교재 5장 문제 풀이" />
   </component>
 </project>
