@@ -14,7 +14,7 @@ public class Taxi {
         this.money += money;    // 택시의 수입 증가
     }
 
-    public void showInfo() {      // 택시의 정보를 출력하는 함수
+    public void showInfo() {      // 택시의 수입 정보를 출력하는 함수
         System.out.println(taxiNum + " 택시의 수입은 " + money + "원 입니다.");
     }
 }
