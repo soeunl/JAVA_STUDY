@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="722c416a-1741-428b-b03b-38051e3278b9" name="Changes" comment="교재 6장 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/CarFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/CardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/CardFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/CardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/Student3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/StudentTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Study01/TakeCoffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/Study01/TakeTaxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/Study01/TakeTaxi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/Study01/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/Study01/Taxi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.CardFactoryTest.executor": "Run",
     "Application.TakeTaxi.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -91,9 +77,22 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TakeTaxi">
+  <component name="RunManager" selected="Application.CardFactoryTest">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Study01.Calculator" />
+      <module name="Study_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Study01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study01.CardFactoryTest" />
       <module name="Study_Java" />
       <extension name="coverage">
         <pattern>
@@ -133,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CardFactoryTest" />
         <item itemvalue="Application.TakeTaxi" />
         <item itemvalue="Application.Calculator" />
       </list>
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717938040575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="교재 6장 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1717947562804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717947562804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
