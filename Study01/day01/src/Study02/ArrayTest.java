@@ -8,16 +8,16 @@ public class ArrayTest {
     public static void main(String[] args) {
         int[] num = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-//        int sum = 0;
-//        for(int i = 0; i < num.length; i++) {
-//            sum += num[i];
-//       } System.out.println(sum);
+        int sum1 = 0;
+        for(int i = 0; i < num.length; i++) {
+            sum1 += num[i];
+       } System.out.println(sum1);
 //        // 기본 for문으로 출력하는 방법
 
-//        int sum = 0;
-//        for(int i : num) {
-//            sum += i;
-//        } System.out.println(sum);
+        int sum2 = 0;
+        for(int i : num) {
+            sum2 += i;
+        } System.out.println(sum2);
 //        // 향상된 for문으로 출력하는 방법
 
         int sum = Arrays.stream(num).sum();
