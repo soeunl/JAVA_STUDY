@@ -17,4 +17,5 @@ public abstract class Car3 {
         turnoff();
         washCar();
     }
+    public abstract void show();
 }

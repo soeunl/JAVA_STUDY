@@ -20,4 +20,9 @@ public class Avante extends Car3 {
     public void turnoff() {
         System.out.println("🩷Avante 시동을 끕니다.");
     }
+
+    @Override
+    public void show() {
+        System.out.print("🩷Avante");
+    }
 }

@@ -20,4 +20,9 @@ public class Genesis extends Car3 {
     public void turnoff() {
         System.out.println("💜Genesis 시동을 끕니다.");
     }
+
+    @Override
+    public void show() {
+        System.out.print("💜Genesis");
+    }
 }

@@ -20,4 +20,9 @@ public class Grandeur extends Car3 {
     public void turnoff() {
         System.out.println("💚Grandeur 시동을 끕니다.");
     }
+
+    @Override
+    public void show() {
+        System.out.print("💚Grandeur");
+    }
 }

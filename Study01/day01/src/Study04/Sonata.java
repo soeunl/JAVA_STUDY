@@ -20,4 +20,9 @@ public class Sonata extends Car3 {
     public void turnoff() {
         System.out.println("🧡Sonata 시동을 끕니다.");
     }
+
+    @Override
+    public void show() {
+        System.out.print("🧡Sonata");
+    }
 }

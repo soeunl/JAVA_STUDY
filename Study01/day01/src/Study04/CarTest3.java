@@ -16,5 +16,9 @@ public class CarTest3 {
             car.run();
             System.out.println("❤️=============❤️");
         }
+
+        for(Car3 show : carList) {
+            show.show();
+        }
     }
 }
